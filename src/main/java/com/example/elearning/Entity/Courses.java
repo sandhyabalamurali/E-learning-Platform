@@ -57,7 +57,7 @@ public class Courses {
         this.price = price;
     }
 
-    public UserEntity getUser() {
+    public UserEntityg getUser() {
         return user;
     }
 
